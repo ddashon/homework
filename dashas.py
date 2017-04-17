@@ -23,7 +23,7 @@ def sup():
     for root,dirs,files in os.walk('.'):
         num=root.count('\\')
         root+ root.split('\\')[-1]
-        print ('\t'*(num), root, sep='--' )
+        print ('\t'*(num), root, sep='--')
         for f in files:
             print ('\t'*(num+1), f)
 sup()
