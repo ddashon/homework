@@ -1,0 +1,74 @@
+я усталь
+Type "copyright", "credits" or "license()" for more information.
+>>> ща буит мясо
+SyntaxError: invalid syntax
+>>> мясо буит я сказал
+SyntaxError: invalid syntax
+>>> не ругай меня питон давай о мясе говорить
+SyntaxError: invalid syntax
+>>> мяско
+Traceback (most recent call last):
+  File "<pyshell#3>", line 1, in <module>
+    мяско
+NameError: name 'мяско' is not defined
+>>> ================================ RESTART ================================
+>>> 
+Traceback (most recent call last):
+  File "C:/Users/student/Desktop/myaso.py", line 2, in <module>
+    m.regex=r'мяс(к?(ом?|е|а|у))'
+NameError: name 'm' is not defined
+>>> мясо
+Traceback (most recent call last):
+  File "<pyshell#4>", line 1, in <module>
+    мясо
+NameError: name 'мясо' is not defined
+>>> почему
+Traceback (most recent call last):
+  File "<pyshell#5>", line 1, in <module>
+    почему
+NameError: name 'почему' is not defined
+>>> мясище
+Traceback (most recent call last):
+  File "<pyshell#6>", line 1, in <module>
+    мясище
+NameError: name 'мясище' is not defined
+>>> месево
+Traceback (most recent call last):
+  File "<pyshell#7>", line 1, in <module>
+    месево
+NameError: name 'месево' is not defined
+>>> ================================ RESTART ================================
+>>> 
+vzcj
+Traceback (most recent call last):
+  File "C:/Users/student/Desktop/myaso.py", line 3, in <module>
+    m.regex=r'мяс(к?(ом?|е|а|у))'
+AttributeError: 'str' object has no attribute 'regex'
+>>> inj
+Traceback (most recent call last):
+  File "<pyshell#8>", line 1, in <module>
+    inj
+NameError: name 'inj' is not defined
+>>> ================================ RESTART ================================
+>>> 
+што
+Traceback (most recent call last):
+  File "C:/Users/student/Desktop/myaso.py", line 3, in <module>
+    m.regex=r'мяс(к?(ом?|е|а|у))'
+AttributeError: 'str' object has no attribute 'regex'
+>>> ================================ RESTART ================================
+>>> 
+Traceback (most recent call last):
+  File "C:/Users/student/Desktop/myaso.py", line 3, in <module>
+    m=re.search(regex, s)
+NameError: name 's' is not defined
+>>> мяса мне
+SyntaxError: invalid syntax
+>>> мясо
+Traceback (most recent call last):
+  File "<pyshell#10>", line 1, in <module>
+    мясо
+NameError: name 'мясо' is not defined
+>>> фу как грубо
+SyntaxError: invalid syntax
+>>> 
